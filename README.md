@@ -2,24 +2,21 @@
 
 <div align="center">
 
-<img src="https://wy0xihlhnevw1toh.public.blob.vercel-storage.com/images/ueug_ItsukichanBot-kSBgWKyatxf68Vxl3DMdr14VhAv7tR.png" alt="Header Image" width="100%"/>
+<img src="https://img2.pixhost.to/images/6518/705747221_requime-baileys.png" alt="Header Image" width="100%"/>
 
 <br/>
 
 <!-- Badges -->
 <p>
   <img src="https://img.shields.io/npm/dw/%40itsukichan%2Fbaileys?label=npm&color=%23CB3837" alt="NPM Downloads"/>
-  <img src="https://img.shields.io/github/v/release/itsukichann/baileys?include_prereleases&sort=semver" alt="Latest Release"/>
-  <img src="https://img.shields.io/github/languages/code-size/itsukichann/baileys" alt="Code Size"/>
-  <img src="https://img.shields.io/github/license/itsukichann/baileys" alt="License"/>
-  <img src="https://img.shields.io/github/stars/itsukichann/baileys" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/itsukichann/baileys" alt="Forks"/>
+  <img src="https://img.shields.io/github/v/release/RequimeOfficial/Baileys?include_prereleases&sort=semver" alt="Latest Release"/>
+  <img src="https://img.shields.io/github/languages/code-size/RequimeOfficial/Baileys" alt="Code Size"/>
+  <img src="https://img.shields.io/github/license/RequimeOfficial/Baileys" alt="License"/>
+  <img src="https://img.shields.io/github/stars/RequimeOfficial/Baileys" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/RequimeOfficial/Baileys" alt="Forks"/>
 </p>
 
 <!-- GitHub Stats -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsukichann&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 </div>
 
@@ -60,7 +57,7 @@ yarn add @itsukichan/baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:Itsukichann/Baileys
+yarn add github:RequimeOfficial/Baileys
 ```
 
 Then import your code using:
